@@ -1,2 +1,2 @@
-# Angulat
+# Angular
 Angular Projects
